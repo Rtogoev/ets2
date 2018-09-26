@@ -1,8 +1,8 @@
 SiiNunit
 {
-input_config : _nameless.287.0c72.d670 {
+input_config : _nameless.17e.b490.05d0 {
  version: 6
- config_lines: 309
+ config_lines: 314
  config_lines[0]: "device keyboard `di8.keyboard`"
  config_lines[1]: "device mouse `fusion.mouse`"
  config_lines[2]: "device joy ``"
@@ -312,6 +312,11 @@ input_config : _nameless.287.0c72.d670 {
  config_lines[306]: "mix demo_setsun ``"
  config_lines[307]: "mix demo_trfon ``"
  config_lines[308]: "mix demo_trfoff ``"
+ config_lines[309]: "mix assistact1 `keyboard.key1?0`"
+ config_lines[310]: "mix assistact2 `keyboard.key2?0`"
+ config_lines[311]: "mix assistact3 `keyboard.key3?0`"
+ config_lines[312]: "mix assistact4 `keyboard.key4?0`"
+ config_lines[313]: "mix assistact5 `keyboard.key5?0`"
 }
 
 }
