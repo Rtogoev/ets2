@@ -1,6 +1,6 @@
 SiiNunit
 {
-input_config : _nameless.1e2.ccc0.6e50 {
+input_config : _nameless.16f.d1cd.2b80 {
  version: 6
  config_lines: 341
  config_lines[0]: "device keyboard `di8.keyboard`"
@@ -242,7 +242,7 @@ input_config : _nameless.1e2.ccc0.6e50 {
  config_lines[236]: "mix showmirrors `keyboard.f2?0`"
  config_lines[237]: "mix showhud `keyboard.f3?0`"
  config_lines[238]: "mix navmap `keyboard.m?0`"
- config_lines[239]: "mix quicksave `keyboard.scrollock?0`"
+ config_lines[239]: "mix quicksave `keyboard.caps?0`"
  config_lines[240]: "mix quickload ``"
  config_lines[241]: "mix radio `keyboard.r?0`"
  config_lines[242]: "mix radionext `keyboard.end?0`"
