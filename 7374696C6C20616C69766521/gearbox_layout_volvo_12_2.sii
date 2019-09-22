@@ -1,35 +1,35 @@
 SiiNunit
 {
-direct_gearbox_config : _nameless.137.63c5.6f40 {
+direct_gearbox_config : _nameless.1d0.08ed.ffb0 {
  name: "Volvo 12+2 @@speeds@@"
  clutch_mode: analog
  selector_mode: range_split
  gears: 22
- gears[0]: _nameless.137.6474.f620
- gears[1]: _nameless.137.6474.f020
- gears[2]: _nameless.137.6474.f6e0
- gears[3]: _nameless.137.6474.f740
- gears[4]: _nameless.137.6474.fb00
- gears[5]: _nameless.137.6474.fc20
- gears[6]: _nameless.137.6474.ff20
- gears[7]: _nameless.137.6474.ff80
- gears[8]: _nameless.137.6474.ffe0
- gears[9]: _nameless.137.6475.07c0
- gears[10]: _nameless.137.6475.11e0
- gears[11]: _nameless.137.6475.1000
- gears[12]: _nameless.137.6475.1d20
- gears[13]: _nameless.137.6475.1ba0
- gears[14]: _nameless.137.6475.1d80
- gears[15]: _nameless.137.6475.0fa0
- gears[16]: _nameless.137.6475.0880
- gears[17]: _nameless.137.6475.0700
- gears[18]: _nameless.137.6475.1480
- gears[19]: _nameless.137.6475.1ea0
- gears[20]: _nameless.137.6475.1c00
- gears[21]: _nameless.137.6475.1cc0
+ gears[0]: _nameless.1d0.0826.d170
+ gears[1]: _nameless.1d0.0826.d1f0
+ gears[2]: _nameless.1d0.0826.db30
+ gears[3]: _nameless.1d0.0826.dbb0
+ gears[4]: _nameless.1d0.0826.d370
+ gears[5]: _nameless.1d0.0826.dbf0
+ gears[6]: _nameless.1d0.0826.deb0
+ gears[7]: _nameless.1d0.0826.def0
+ gears[8]: _nameless.1d0.0826.d3f0
+ gears[9]: _nameless.1d0.0826.df30
+ gears[10]: _nameless.1d0.0826.dc30
+ gears[11]: _nameless.1d0.0826.df70
+ gears[12]: _nameless.1d0.0826.dfb0
+ gears[13]: _nameless.1d0.0826.ed70
+ gears[14]: _nameless.1d0.0826.ec30
+ gears[15]: _nameless.1d0.0826.e470
+ gears[16]: _nameless.1d0.0826.eeb0
+ gears[17]: _nameless.1d0.0826.e930
+ gears[18]: _nameless.1d0.0826.e8b0
+ gears[19]: _nameless.1d0.0826.f030
+ gears[20]: _nameless.1d0.0826.e6f0
+ gears[21]: _nameless.1d0.0826.ed30
 }
 
-direct_gearbox_gear : _nameless.137.6474.f620 {
+direct_gearbox_gear : _nameless.1d0.0826.d170 {
  gear_impulse_index: 0
  selector_1: -1
  selector_2: -1
@@ -37,7 +37,7 @@ direct_gearbox_gear : _nameless.137.6474.f620 {
  name: N
 }
 
-direct_gearbox_gear : _nameless.137.6474.f020 {
+direct_gearbox_gear : _nameless.1d0.0826.d1f0 {
  gear_impulse_index: 3
  selector_1: 0
  selector_2: 0
@@ -45,7 +45,7 @@ direct_gearbox_gear : _nameless.137.6474.f020 {
  name: RLL
 }
 
-direct_gearbox_gear : _nameless.137.6474.f6e0 {
+direct_gearbox_gear : _nameless.1d0.0826.db30 {
  gear_impulse_index: 3
  selector_1: 0
  selector_2: 1
@@ -53,7 +53,7 @@ direct_gearbox_gear : _nameless.137.6474.f6e0 {
  name: RLH
 }
 
-direct_gearbox_gear : _nameless.137.6474.f740 {
+direct_gearbox_gear : _nameless.1d0.0826.dbb0 {
  gear_impulse_index: 3
  selector_1: 1
  selector_2: 0
@@ -61,7 +61,7 @@ direct_gearbox_gear : _nameless.137.6474.f740 {
  name: RHL
 }
 
-direct_gearbox_gear : _nameless.137.6474.fb00 {
+direct_gearbox_gear : _nameless.1d0.0826.d370 {
  gear_impulse_index: 3
  selector_1: 1
  selector_2: 1
@@ -69,7 +69,7 @@ direct_gearbox_gear : _nameless.137.6474.fb00 {
  name: RHH
 }
 
-direct_gearbox_gear : _nameless.137.6474.fc20 {
+direct_gearbox_gear : _nameless.1d0.0826.dbf0 {
  gear_impulse_index: 2
  selector_1: 0
  selector_2: 0
@@ -77,7 +77,7 @@ direct_gearbox_gear : _nameless.137.6474.fc20 {
  name: C1
 }
 
-direct_gearbox_gear : _nameless.137.6474.ff20 {
+direct_gearbox_gear : _nameless.1d0.0826.deb0 {
  gear_impulse_index: 2
  selector_1: 0
  selector_2: 1
@@ -85,7 +85,7 @@ direct_gearbox_gear : _nameless.137.6474.ff20 {
  name: C2
 }
 
-direct_gearbox_gear : _nameless.137.6474.ff80 {
+direct_gearbox_gear : _nameless.1d0.0826.def0 {
  gear_impulse_index: 2
  selector_1: 1
  selector_2: -1
@@ -93,7 +93,7 @@ direct_gearbox_gear : _nameless.137.6474.ff80 {
  name: ""
 }
 
-direct_gearbox_gear : _nameless.137.6474.ffe0 {
+direct_gearbox_gear : _nameless.1d0.0826.d3f0 {
  gear_impulse_index: 4
  selector_1: 0
  selector_2: 0
@@ -101,7 +101,7 @@ direct_gearbox_gear : _nameless.137.6474.ffe0 {
  name: 1L
 }
 
-direct_gearbox_gear : _nameless.137.6475.07c0 {
+direct_gearbox_gear : _nameless.1d0.0826.df30 {
  gear_impulse_index: 4
  selector_1: 0
  selector_2: 1
@@ -109,7 +109,7 @@ direct_gearbox_gear : _nameless.137.6475.07c0 {
  name: 1H
 }
 
-direct_gearbox_gear : _nameless.137.6475.11e0 {
+direct_gearbox_gear : _nameless.1d0.0826.dc30 {
  gear_impulse_index: 5
  selector_1: 0
  selector_2: 0
@@ -117,7 +117,7 @@ direct_gearbox_gear : _nameless.137.6475.11e0 {
  name: 2L
 }
 
-direct_gearbox_gear : _nameless.137.6475.1000 {
+direct_gearbox_gear : _nameless.1d0.0826.df70 {
  gear_impulse_index: 5
  selector_1: 0
  selector_2: 1
@@ -125,7 +125,7 @@ direct_gearbox_gear : _nameless.137.6475.1000 {
  name: 2H
 }
 
-direct_gearbox_gear : _nameless.137.6475.1d20 {
+direct_gearbox_gear : _nameless.1d0.0826.dfb0 {
  gear_impulse_index: 6
  selector_1: 0
  selector_2: 0
@@ -133,7 +133,7 @@ direct_gearbox_gear : _nameless.137.6475.1d20 {
  name: 3L
 }
 
-direct_gearbox_gear : _nameless.137.6475.1ba0 {
+direct_gearbox_gear : _nameless.1d0.0826.ed70 {
  gear_impulse_index: 6
  selector_1: 0
  selector_2: 1
@@ -141,7 +141,7 @@ direct_gearbox_gear : _nameless.137.6475.1ba0 {
  name: 3H
 }
 
-direct_gearbox_gear : _nameless.137.6475.1d80 {
+direct_gearbox_gear : _nameless.1d0.0826.ec30 {
  gear_impulse_index: 4
  selector_1: 1
  selector_2: 0
@@ -149,7 +149,7 @@ direct_gearbox_gear : _nameless.137.6475.1d80 {
  name: 4L
 }
 
-direct_gearbox_gear : _nameless.137.6475.0fa0 {
+direct_gearbox_gear : _nameless.1d0.0826.e470 {
  gear_impulse_index: 4
  selector_1: 1
  selector_2: 1
@@ -157,7 +157,7 @@ direct_gearbox_gear : _nameless.137.6475.0fa0 {
  name: 4H
 }
 
-direct_gearbox_gear : _nameless.137.6475.0880 {
+direct_gearbox_gear : _nameless.1d0.0826.eeb0 {
  gear_impulse_index: 5
  selector_1: 1
  selector_2: 0
@@ -165,7 +165,7 @@ direct_gearbox_gear : _nameless.137.6475.0880 {
  name: 5L
 }
 
-direct_gearbox_gear : _nameless.137.6475.0700 {
+direct_gearbox_gear : _nameless.1d0.0826.e930 {
  gear_impulse_index: 5
  selector_1: 1
  selector_2: 1
@@ -173,7 +173,7 @@ direct_gearbox_gear : _nameless.137.6475.0700 {
  name: 5H
 }
 
-direct_gearbox_gear : _nameless.137.6475.1480 {
+direct_gearbox_gear : _nameless.1d0.0826.e8b0 {
  gear_impulse_index: 6
  selector_1: 1
  selector_2: 0
@@ -181,7 +181,7 @@ direct_gearbox_gear : _nameless.137.6475.1480 {
  name: 6L
 }
 
-direct_gearbox_gear : _nameless.137.6475.1ea0 {
+direct_gearbox_gear : _nameless.1d0.0826.f030 {
  gear_impulse_index: 6
  selector_1: 1
  selector_2: 1
@@ -189,7 +189,7 @@ direct_gearbox_gear : _nameless.137.6475.1ea0 {
  name: 6H
 }
 
-direct_gearbox_gear : _nameless.137.6475.1c00 {
+direct_gearbox_gear : _nameless.1d0.0826.e6f0 {
  gear_impulse_index: 1
  selector_1: -1
  selector_2: -1
@@ -197,7 +197,7 @@ direct_gearbox_gear : _nameless.137.6475.1c00 {
  name: ""
 }
 
-direct_gearbox_gear : _nameless.137.6475.1cc0 {
+direct_gearbox_gear : _nameless.1d0.0826.ed30 {
  gear_impulse_index: 7
  selector_1: -1
  selector_2: -1
