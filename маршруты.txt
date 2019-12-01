@@ -1,7 +1,7 @@
 Основные: (при отсутствии каких-либо дополнений на расширение карты, достаточно довезти грузы из этих городов)
-Luxebourg (L)
-Sheffield (GB)
-Berlin (D)
+Luxebourg (L)+
+Sheffield (GB)+
+Berlin (D)+
 Reims (F)
 Dresden (D)
 Dortmund (D)
