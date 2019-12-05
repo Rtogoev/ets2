@@ -3,7 +3,7 @@ Luxebourg (L)+
 Sheffield (GB)+
 Berlin (D)+
 Reims (F)+
-Dresden (D)
+Dresden (D) +
 Dortmund (D)
 Praha (CZ)
 Glasgow (GB)
