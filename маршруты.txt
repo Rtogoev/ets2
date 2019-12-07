@@ -6,7 +6,7 @@ Reims (F)+
 Dresden (D) +
 Dortmund (D) +
 Praha (CZ) +
-Glasgow (GB)
+Glasgow (GB) +
 München (D)
 Köln (D)
 Brussel (B)
