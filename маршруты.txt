@@ -4,8 +4,8 @@ Sheffield (GB)+
 Berlin (D)+
 Reims (F)+
 Dresden (D) +
-Dortmund (D)
-Praha (CZ)
+Dortmund (D) +
+Praha (CZ) +
 Glasgow (GB)
 München (D)
 Köln (D)
