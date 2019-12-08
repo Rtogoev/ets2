@@ -7,8 +7,8 @@ Dresden (D) +
 Dortmund (D) +
 Praha (CZ) +
 Glasgow (GB) +
-München (D)
-Köln (D)
+München (D) +-
+Köln (D) +
 Brussel (B)
 Linz (A)
 Cardiff (UK)
