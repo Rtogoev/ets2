@@ -10,7 +10,7 @@ Glasgow (GB) +
 München (D) +-
 Köln (D) +
 Brussel (B) +
-Linz (A)
+Linz (A) +
 Cardiff (UK)
 London (UK)
 Dijon (F)
