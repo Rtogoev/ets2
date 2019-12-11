@@ -9,7 +9,7 @@ Praha (CZ) +
 Glasgow (GB) +
 München (D) +-
 Köln (D) +
-Brussel (B)
+Brussel (B) +
 Linz (A)
 Cardiff (UK)
 London (UK)
