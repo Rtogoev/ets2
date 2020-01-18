@@ -11,7 +11,7 @@ München (D) +-
 Köln (D) +
 Brussel (B) +
 Linz (A) +
-Cardiff (UK)
+Cardiff (UK) +
 London (UK)
 Dijon (F)
 Bratislava (SK)
