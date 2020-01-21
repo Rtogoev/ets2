@@ -12,8 +12,8 @@ Köln (D) +
 Brussel (B) +
 Linz (A) +
 Cardiff (UK) +
-London (UK)
-Dijon (F)
+London (UK) +
+Dijon (F) +
 Bratislava (SK)
 Plymouth (GB)
 
