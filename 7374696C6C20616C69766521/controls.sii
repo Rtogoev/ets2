@@ -1,6 +1,6 @@
 SiiNunit
 {
-input_config : _nameless.1d6.70fd.c060 {
+input_config : _nameless.15a.8f94.6ab0 {
  version: 13
  config_lines: 447
  config_lines[0]: "device keyboard `di8.keyboard`"
@@ -311,8 +311,8 @@ input_config : _nameless.1d6.70fd.c060 {
  config_lines[305]: "mix diflock `keyboard.v?0 | semantical.diflock?0`"
  config_lines[306]: "mix rwinopen `semantical.rwinopen?0`"
  config_lines[307]: "mix rwinclose `semantical.rwinclose?0`"
- config_lines[308]: "mix lwinopen `semantical.lwinopen?0`"
- config_lines[309]: "mix lwinclose `semantical.lwinclose?0`"
+ config_lines[308]: "mix lwinopen `keyboard.z?0 | semantical.lwinopen?0`"
+ config_lines[309]: "mix lwinclose `keyboard.x?0 | semantical.lwinclose?0`"
  config_lines[310]: "mix parkingbrake `keyboard.space?0 | semantical.parkingbrake?0`"
  config_lines[311]: "mix wipers `keyboard.p?0 | semantical.wipers?0`"
  config_lines[312]: "mix wipersback `semantical.wipersback?0`"
